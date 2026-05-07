@@ -73,6 +73,18 @@ Net Amount: ₹124,690
 GST (18%): ₹22,444.20  
 TDS (10%): ₹12,469.00  
 Total Payable: ₹134,666  
+## 📸 System Screenshots
+
+### 📝 Nanonet
+![Nanonet](nanonet-ss.jpeg)
+
+
+### 📊 Questions
+![Questions](questions-ss.jpeg)
+
+
+### ⚙️ Answers
+![Answers](answers-ss.jpeg)
 
 ⭐ Key Features Demonstrated
 • Automatic field extraction – Invoice number, dates, vendor, client, amounts
